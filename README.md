@@ -13,12 +13,13 @@ The goal is clarity and real-world usefulness, not copy and paste course notes.
 
 ## Repository map
 
-- `identity/` Entra ID, admin roles, authentication, access patterns
-- `endpoint/` Intune concepts, device trust, compliance, update strategy
-- `security/` Defender and Purview concepts, security-by-design notes
-- `governance/` Platform governance, roles, guardrails, decision records
-- `operations/` Health checks, incident patterns, change considerations
-- `templates/` Reusable templates for docs in this repo
+It is organised around the areas that matter most for day-to-day Microsoft 365 administration:
+- Identity and access (Entra ID)
+- Endpoint and device management (Intune)
+- Threat protection (Microsoft Defender)
+- Data protection and compliance (Microsoft Purview, DLP)
+- Governance and service ownership
+- Operational practices and continuous improvement
 
 ## How I use these notes
 
