@@ -8,7 +8,8 @@ Topics to document here:
 - Basic alert handling flow (triage mindset)
 - Data protection concepts (high level)
 
-Next docs to add:
+Key docs:
 - `defender-overview.md`
-- `secure-by-design-principles.md`
+- `purview-dlp-basics.md`
+
 
